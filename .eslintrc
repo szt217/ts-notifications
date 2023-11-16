@@ -1,0 +1,5 @@
+{
+  "root": true,
+  "extends": ["eslint:recommended", "prettier"],
+  "plugins": ["react", "react-native", "react-hooks", "import", "@typescript-eslint"]
+}
