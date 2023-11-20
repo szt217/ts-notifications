@@ -1,3 +1,6 @@
+https://github.com/szt217/root-take-home/assets/17673935/806fbd0c-a799-4b22-bf79-3e9e4157ce04
+
+
 This project demonstrates how a React Native frontend might handle a notification user interface.
 
 Disclaimer: I ran with the project a bit beyond the requirements. Along with the requested criteria, I wanted to show how features shown in the take home project spec screenshot might actually be implemented in a React Native frontend. This project is a good start.
